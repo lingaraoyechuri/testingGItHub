@@ -1,1 +1,3 @@
 this is note1 for testing
+
+changing note1 text file
